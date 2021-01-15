@@ -3,6 +3,7 @@
 	"displayName": "github-vscode-richpresence",
 	"description": "",
 	"publisher": "rubenkharel",
+	"repository": "https://github.com/rubenkharel/github-vscode-rich-presence-extension",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.52.0"
