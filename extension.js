@@ -41,7 +41,7 @@ function activate(context) {
 		let info = {
 			filename: null,
 			wspace: null,
-			time: null
+			time: getTime()
 		}
 		if (vscode.window.activeTextEditor) {
 				info[`filename`] = basename(vscode.window.activeTextEditor.document.fileName)
