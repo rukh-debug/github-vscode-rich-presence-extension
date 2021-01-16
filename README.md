@@ -4,7 +4,7 @@ It is a helper extension built for vscode. All it does is gather yor vscode info
 
 ## Demo
 
-[![Generated image][http://54.175.170.144:9998/img.jpeg]](https://github.com/rubenkharel/rubenkharel)
+[![Generated image](http://54.175.170.144:9998/img.jpeg)](https://github.com/rubenkharel/rubenkharel)
 
 Yes it is live, (PROBABLY) unless I took it down for some reason. 
 
