@@ -39,8 +39,8 @@ function activate(context) {
 	
 	let getWorkspaceInfo = () => {
 		let info = {
-			filename: null,
-			wspace: null,
+			filename: "no file opened",
+			wspace: "idle",
 			time: getTime()
 		}
 		if (vscode.window.activeTextEditor) {
