@@ -4,7 +4,7 @@ It is a helper extension built for vscode. All it does is gather yor vscode info
 
 ## Demo
 
-[![Generated image](http://161.97.66.38:9998/img.jpeg)](https://github.com/rubenkharel/rubenkharel)
+[![Generated image](https://i.imgur.com/PFrs5wZ.png)](https://github.com/rubenkharel/rubenkharel)
  
 
 
@@ -14,7 +14,8 @@ It is a helper extension built for vscode. All it does is gather yor vscode info
 
 ## Requirements
 
-- A personal server to host backend.
+- A server to host backend
+- This => [backend server] should be hosted in your vps or whatever.
 
 ## Extension Settings
 
@@ -31,9 +32,15 @@ No Known issues sofar
 
 ### 1.0.0
 
-Initial release
+- Initial release
 
 ### 1.1.0
 
-Dark Mode added (while you are sleeping)
-Readme improvised
+- Dark Mode added (while you are sleeping)
+- Readme improvised
+
+### 1.1.5
+- icon added 
+- readme improved
+- bug fixes
+
