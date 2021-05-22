@@ -1,11 +1,10 @@
 # github-vscode-richpresence README
 
-It is a helper extension built for vscode. All it does is gather yor vscode information and push it to a server then the server generates the image as per the data provided. Which is then later used by github's readme.
+It is a helper extension built for vscode. All it does is gather yor vscode information and push it to a server then the server generates an image as per the data provided.
 
 ## Demo
 
 [![Generated image](https://i.imgur.com/PFrs5wZ.png)](https://github.com/rubenkharel/rubenkharel)
- 
 
 
 ## Features
@@ -15,32 +14,14 @@ It is a helper extension built for vscode. All it does is gather yor vscode info
 ## Requirements
 
 - A server to host backend
-- This => [backend server] should be hosted in your vps or whatever.
+- This => [backend server](https://github.com/rubenkharel/vscode-github-rich-presence) should be hosted yourself.
 
 ## Extension Settings
 
-This extension contributes the following settings:
-
-* `endpoint.OfSocketIoServer`: The server where your socketIO server is hosted
-* `speed.InSec`: set the update speed. Value in `Sec`
-
+Setting information is available on the above repo.
 ## Known Issues
 
-No Known issues sofar
+Setting the update frequency higher then 60 sec might cause issue.
 
-## Release Notes
 
-### 1.0.0
-
-- Initial release
-
-### 1.1.0
-
-- Dark Mode added (while you are sleeping)
-- Readme improvised
-
-### 1.1.5
-- icon added 
-- readme improved
-- bug fixes
-
+Will fix it when I get time
